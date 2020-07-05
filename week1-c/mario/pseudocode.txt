@@ -1,0 +1,7 @@
+Mario (less)
+
+1. Ask the user for pyramid height;
+2. If height is not between 1-8, goto 1;
+3. For i = 1 to height;
+    1. Print i hashes;
+    2. Print newline;

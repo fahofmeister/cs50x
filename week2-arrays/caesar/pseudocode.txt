@@ -1,0 +1,7 @@
+1. Check command line arguments
+    1. If the arguments are not within the criteria, print the corret usage
+2. Ask for the plaintext
+3. For each letter in plaintext
+    1. If letter, the new letter should be (char + key) % 26
+    2. If other character, preserve it
+4. Return the ciphertext

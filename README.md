@@ -1,7 +1,9 @@
 
 # cs50x
 
-Repository to save my assignments submitted to HarvardX CS50x Introduction to Computer Science.
+Repository to save my assignments submitted to [HarvardX CS50x Introduction to Computer Science](https://cs50.harvard.edu/x).
+
+If you are taking (or intends to take it), remember the academic honesty code and **DO NOT COPY ANY OF THE CODES HERE**. If you need any help with any assignment, go to the platforms available to submit your questions.
 
 ## Week 0 - Scratch
 
